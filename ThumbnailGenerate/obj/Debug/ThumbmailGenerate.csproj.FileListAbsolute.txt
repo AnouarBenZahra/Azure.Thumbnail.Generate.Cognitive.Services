@@ -1,0 +1,13 @@
+C:\Users\Anouar BEN ZAHRA\Source\repos\ThumbmailGenerate\ThumbmailGenerate\bin\Debug\ThumbmailGenerate.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\ThumbmailGenerate\ThumbmailGenerate\bin\Debug\ThumbmailGenerate.pdb
+C:\Users\Anouar BEN ZAHRA\Source\repos\ThumbmailGenerate\ThumbmailGenerate\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\ThumbmailGenerate\ThumbmailGenerate\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\ThumbmailGenerate\ThumbmailGenerate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\ThumbmailGenerate\ThumbmailGenerate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anouar BEN ZAHRA\Source\repos\ThumbmailGenerate\ThumbmailGenerate\obj\Debug\ThumbmailGenerate.csproj.CoreCompileInputs.cache
+C:\Users\Anouar BEN ZAHRA\Source\repos\ThumbmailGenerate\ThumbmailGenerate\obj\Debug\ThumbmailGenerate.csproj.CopyComplete
+C:\Users\Anouar BEN ZAHRA\Source\repos\ThumbmailGenerate\ThumbmailGenerate\obj\Debug\ThumbmailGenerate.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\ThumbmailGenerate\ThumbmailGenerate\obj\Debug\ThumbmailGenerate.pdb
+C:\Users\Anouar BEN ZAHRA\Source\repos\ThumbmailGenerate\ThumbmailGenerate\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\ThumbmailGenerate\ThumbmailGenerate\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.xml
+C:\Users\Anouar BEN ZAHRA\Source\repos\ThumbmailGenerate\ThumbmailGenerate\obj\Debug\ThumbmailGenerate.csprojAssemblyReference.cache
